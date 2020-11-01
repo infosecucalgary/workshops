@@ -1,0 +1,3 @@
+P1: This is the known plaintext.\x04\x04\x04\x04
+C1: a0698aa104e65c3fa11be0e785da5900ddf7ac646cf8f736b04383e0457e4b17
+C2: b26d82b51eaf5a7ca616e6bcaa847840ec85ef5d5ea2c6759d5ea8ef17074d11
